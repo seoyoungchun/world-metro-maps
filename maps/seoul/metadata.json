@@ -138,16 +138,24 @@
     "ja"
   ],
   "maps": {
-    "official_sources": {
-      "korean": "seoul-metro-2024-ko.jpg",
-      "english": "seoul-metro-2024-en.jpg",
-      "chinese": "seoul-metro-2024-zh.jpg",
-      "japanese": "seoul-metro-2024-ja.jpg"
+    "downloaded_files": [
+      "seoul-metro-2025-official.jpg",
+      "seoul-metro-2025-official.pdf",
+      "seoul-metro-visit-kr.pdf",
+      "seoul-metro-visit-en.pdf"
+    ],
+    "total_size_bytes": 3146,
+    "sources": {
+      "seoul_transportation_corp": "http://www.seoulmetro.co.kr/kr/cyberStation.do",
+      "seoul_government": "https://news.seoul.go.kr/culture/archives/522224",
+      "public_data_portal": "https://www.data.go.kr/data/15120713/fileData.do",
+      "wikimedia_commons": "https://commons.wikimedia.org/wiki/Category:Seoul_Subway_maps"
     },
-    "source_authority": "Seoul Transportation Corporation",
-    "license": "Public Domain (출처표시 + 변경금지)",
-    "last_updated": "2025-08-17",
-    "format": "JPG",
-    "resolution": "High Resolution"
+    "licenses": {
+      "seoul_official": "Public Domain (출처표시+변경금지)",
+      "wikimedia": "CC BY-SA 4.0"
+    },
+    "last_updated": "2025-08-17 14:00:13",
+    "download_status": "4 files successfully downloaded"
   }
 }
