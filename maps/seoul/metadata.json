@@ -136,5 +136,18 @@
     "en",
     "zh",
     "ja"
-  ]
+  ],
+  "maps": {
+    "official_sources": {
+      "korean": "seoul-metro-2024-ko.jpg",
+      "english": "seoul-metro-2024-en.jpg",
+      "chinese": "seoul-metro-2024-zh.jpg",
+      "japanese": "seoul-metro-2024-ja.jpg"
+    },
+    "source_authority": "Seoul Transportation Corporation",
+    "license": "Public Domain (출처표시 + 변경금지)",
+    "last_updated": "2025-08-17",
+    "format": "JPG",
+    "resolution": "High Resolution"
+  }
 }
