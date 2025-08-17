@@ -1,0 +1,148 @@
+{
+  "status": "success",
+  "data": {
+    "city": {
+      "name": "Seoul",
+      "name_local": "서울",
+      "country": "South Korea",
+      "country_code": "KR",
+      "timezone": "Asia/Seoul",
+      "coordinates": {
+        "lat": 37.5665,
+        "lng": 126.978
+      }
+    },
+    "system": {
+      "name": "Seoul Subway",
+      "name_local": "서울지하철",
+      "operator": [
+        "Seoul Metro",
+        "Korail",
+        "Seoul Metropolitan Government"
+      ],
+      "website": "https://www.seoulmetro.co.kr",
+      "official_map_url": "https://english.seoul.go.kr/redesign-of-the-seoul-metro-map-for-the-first-time-in-40-years/",
+      "year_opened": 1974,
+      "annual_ridership": 2500000000
+    },
+    "network": {
+      "lines_count": 23,
+      "stations_count": 624,
+      "total_length_km": 353.4,
+      "operating_hours": {
+        "start": "05:30",
+        "end": "24:00",
+        "weekend_end": "01:00"
+      }
+    },
+    "lines": [
+      {
+        "id": "line1",
+        "name": "Line 1",
+        "name_local": "1호선",
+        "color": "#0052A4",
+        "stations_count": 98,
+        "length_km": 7.4,
+        "type": "subway"
+      },
+      {
+        "id": "line2",
+        "name": "Line 2",
+        "name_local": "2호선",
+        "color": "#00A84D",
+        "stations_count": 50,
+        "length_km": 60.2,
+        "type": "subway"
+      },
+      {
+        "id": "line3",
+        "name": "Line 3",
+        "name_local": "3호선",
+        "color": "#EF7C1C",
+        "stations_count": 34,
+        "length_km": 38.2,
+        "type": "subway"
+      },
+      {
+        "id": "line4",
+        "name": "Line 4",
+        "name_local": "4호선",
+        "color": "#00A5DE",
+        "stations_count": 26,
+        "length_km": 31.7,
+        "type": "subway"
+      },
+      {
+        "id": "line5",
+        "name": "Line 5",
+        "name_local": "5호선",
+        "color": "#996CAC",
+        "stations_count": 51,
+        "length_km": 52.3,
+        "type": "subway"
+      },
+      {
+        "id": "line6",
+        "name": "Line 6",
+        "name_local": "6호선",
+        "color": "#CD7C2F",
+        "stations_count": 38,
+        "length_km": 35.1,
+        "type": "subway"
+      },
+      {
+        "id": "line7",
+        "name": "Line 7",
+        "name_local": "7호선",
+        "color": "#747F00",
+        "stations_count": 51,
+        "length_km": 57.1,
+        "type": "subway"
+      },
+      {
+        "id": "line8",
+        "name": "Line 8",
+        "name_local": "8호선",
+        "color": "#E6186C",
+        "stations_count": 17,
+        "length_km": 17.7,
+        "type": "subway"
+      },
+      {
+        "id": "line9",
+        "name": "Line 9",
+        "name_local": "9호선",
+        "color": "#BDB092",
+        "stations_count": 38,
+        "length_km": 40.6,
+        "type": "subway"
+      }
+    ],
+    "files": {
+      "svg": "seoul-metro-2023.svg",
+      "pdf": "seoul-metro-2023.pdf",
+      "preview": "seoul-metro-preview.png",
+      "last_updated": "2023-11-07",
+      "file_size_mb": {
+        "svg": 2.1,
+        "pdf": 7.0
+      }
+    },
+    "accessibility": {
+      "wheelchair_accessible_stations": 418,
+      "elevator_stations": 350,
+      "braille_support": true
+    },
+    "languages": [
+      "ko",
+      "en",
+      "zh",
+      "ja"
+    ]
+  },
+  "links": {
+    "svg": "https://raw.githubusercontent.com/username/world-metro-maps/main/maps/seoul/seoul-metro-2023.svg",
+    "pdf": "https://raw.githubusercontent.com/username/world-metro-maps/main/maps/seoul/seoul-metro-2023.pdf",
+    "preview": "https://raw.githubusercontent.com/username/world-metro-maps/main/maps/seoul/seoul-metro-preview.png"
+  }
+}
