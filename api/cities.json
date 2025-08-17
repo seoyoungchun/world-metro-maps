@@ -1,95 +1,76 @@
 {
   "version": "1.0",
   "last_updated": "2025-08-17",
+  "description": "Official subway/metro maps for 150+ cities worldwide",
   "total_cities": 8,
+  "active_cities": 1,
+  "planned_cities": 7,
   "cities": [
     {
-      "id": "seoul",
-      "name": "Seoul",
-      "name_local": "서울",
+      "city": "Seoul",
       "country": "South Korea",
       "country_code": "KR",
+      "lines": 23,
+      "stations": 624,
       "status": "active",
-      "last_updated": "2023-11-07",
-      "lines_count": 23,
-      "stations_count": 624
+      "first_opened": "1974",
+      "operator": "Seoul Transportation Corporation"
     },
     {
-      "id": "tokyo",
-      "name": "Tokyo",
-      "name_local": "東京",
+      "city": "Tokyo",
       "country": "Japan",
       "country_code": "JP",
-      "status": "planned",
-      "last_updated": "2025-01-01",
-      "lines_count": 13,
-      "stations_count": 285
+      "lines": 13,
+      "stations": 285,
+      "status": "planned"
     },
     {
-      "id": "newyork",
-      "name": "New York",
-      "name_local": "New York",
+      "city": "New York",
       "country": "United States",
       "country_code": "US",
-      "status": "planned",
-      "last_updated": "2025-01-01",
-      "lines_count": 26,
-      "stations_count": 472
+      "lines": 26,
+      "stations": 472,
+      "status": "planned"
     },
     {
-      "id": "london",
-      "name": "London",
-      "name_local": "London",
+      "city": "London",
       "country": "United Kingdom",
       "country_code": "GB",
-      "status": "planned",
-      "last_updated": "2025-01-01",
-      "lines_count": 11,
-      "stations_count": 272
+      "lines": 11,
+      "stations": 272,
+      "status": "planned"
     },
     {
-      "id": "shanghai",
-      "name": "Shanghai",
-      "name_local": "上海",
+      "city": "Shanghai",
       "country": "China",
       "country_code": "CN",
-      "status": "planned",
-      "last_updated": "2024-12-01",
-      "lines_count": 18,
-      "stations_count": 500
+      "lines": 18,
+      "stations": 500,
+      "status": "planned"
     },
     {
-      "id": "berlin",
-      "name": "Berlin",
-      "name_local": "Berlin",
+      "city": "Berlin",
       "country": "Germany",
       "country_code": "DE",
-      "status": "planned",
-      "last_updated": "2025-01-01",
-      "lines_count": 10,
-      "stations_count": 173
+      "lines": 10,
+      "stations": 173,
+      "status": "planned"
     },
     {
-      "id": "paris",
-      "name": "Paris",
-      "name_local": "Paris",
+      "city": "Paris",
       "country": "France",
       "country_code": "FR",
-      "status": "planned",
-      "last_updated": "2024-12-01",
-      "lines_count": 16,
-      "stations_count": 303
+      "lines": 16,
+      "stations": 302,
+      "status": "planned"
     },
     {
-      "id": "barcelona",
-      "name": "Barcelona",
-      "name_local": "Barcelona",
+      "city": "Barcelona",
       "country": "Spain",
       "country_code": "ES",
-      "status": "planned",
-      "last_updated": "2024-12-01",
-      "lines_count": 8,
-      "stations_count": 166
+      "lines": 12,
+      "stations": 186,
+      "status": "planned"
     }
   ]
 }
